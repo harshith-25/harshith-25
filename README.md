@@ -1,20 +1,15 @@
-**Title: "Harshith S Shetty: Paving the Digital Future with Passion and Proficiency"**
+<h1 align="center">Hi 👋, I'm Harshith</h1>
+<h3 align="center">A passionate frontend developer and DevOps Engineer</h3>
 
-In the heartbeat of Bengaluru's tech ecosystem, Harshith S Shetty emerges as a beacon of innovation and determination. As he gears up to dive into the dynamic world of software development, Harshith's journey is more than a career path; it's a narrative of relentless passion and unwavering curiosity.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshith-25&label=Profile%20views&color=0e75b6&style=flat" alt="harshith-25" /> </p>
 
-**Coding Maestro with a Shuttle Twist:**
-Not just a virtuoso with lines of code, Harshith is equally adept on the badminton court, showcasing his agility and precision beyond the digital realm.
+- 📫 How to reach me **harshithshetty007@gmail.com**
 
-**A Linguistic Virtuoso:**
-Harshith doesn't just speak the language of code; he's fluent in the languages of collaboration. English, Hindi, Kannada - his linguistic versatility opens doors to seamless communication and understanding.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/harshith shetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshith shetty" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/harshithsshetty007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshithsshetty007" height="30" width="40" /></a>
+</p>
 
-**Tech Alchemist:**
-Harshith's tech arsenal is nothing short of alchemy. From the artistry of React to the orchestration of databases with PostgreSQL, his skills blend seamlessly to create digital masterpieces.
-
-**Educational Odyssey to Excellence:**
-Currently navigating the academic landscape at Rajiv Gandhi Institute of Technology, Bengaluru, Harshith's education is the crucible where theoretical knowledge meets the fires of practical application.
-
-**Internship Symphony:**
-In the symphony of his internship at Varcons Technology, Harshith composed a digital masterpiece – a complete garage website. His skillful integration of JavaScript, React, and Node transformed a concept into a user-friendly reality.
-
-As Harshith anticipates the crescendo of his career, the tech world braces for an artist armed not just with technical prowess but with the creativity to sculpt solutions. His story is one of anticipation, determination, and a thirst for pushing the boundaries of what's possible in the digital realm. Harshith S Shetty is not just a developer; he's a digital artisan crafting the future.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
